@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>所有学生信息</title>
+</head>
+<body>
+
+{% for stuinfo in stuinfos %}
+    姓名： {{ stuinfo.s.s_name }}
+    电话： {{ stuinfo.s.s_tel }}
+    地址： {{ stuinfo.i_addr }}
+    头像:
+    {% if stuinfo.i_image %}
+    <img src="/media/{{ stuinfo.i_image }}" style="height: 100px;width: 100px;">
+    {% endif %}
+    <br>
+{% endfor %}
+
+<h4>____________我是分割线______________</h4>
+<a href="{% url 's:addstu' %}">添加学生</a>
+
+</body>
+</html>

@@ -1,0 +1,31 @@
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331524.6457093 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331524.8472452 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331524.8582742 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331524.8652968 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331524.8733153 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331524.8793294 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331524.961549 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331524.979597 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331581.1796858 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331581.246866 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331581.2649128 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331581.265916 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331581.2669187 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331581.2809553 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331581.446397 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331581.4504063 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331757.2656991 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331757.3408706 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331757.3518999 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331757.35591 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331757.3579211 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331757.3789725 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331757.5233557 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331757.5323799 获取学生信息成功
+20 E:\Django_python_study\day27_1\stu\views.py index views 1525331821.1765547 获取学生信息成功
+20 index 2018-05-03 15:31:47,199 url: /stu/index/ method:GET获取学生信息成功
+20 index 2018-05-03 15:38:11,833 url: /stu/index/ method:GET获取学生信息成功
+20 index 2018-05-03 15:38:19,123 url: /stu/index/ method:GET获取学生信息成功
+20 index 2018-05-03 15:38:37,231 url: /stu/index/ method:GET获取学生信息成功
+INFO index 2018-05-03 16:51:40,625 url: /stu/index/ method:GET获取学生信息成功
+INFO index 2018-05-03 16:51:44,337 url: /stu/index/ method:GET获取学生信息成功
